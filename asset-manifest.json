@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/agoryumreact/static/css/main.9c3de613.css",
+    "main.js": "/agoryumreact/static/js/main.d384df64.js",
+    "static/js/787.6cb22d9a.chunk.js": "/agoryumreact/static/js/787.6cb22d9a.chunk.js",
+    "static/media/video-bg.jpg": "/agoryumreact/static/media/video-bg.a25cfd63eede770ab497.jpg",
+    "static/media/about-banner.jpg": "/agoryumreact/static/media/about-banner.0820ff7281becaaf9d01.jpg",
+    "static/media/Group-167.jpg": "/agoryumreact/static/media/Group-167.2bc700c88b24329ac9a3.jpg",
+    "static/media/footer.jpg": "/agoryumreact/static/media/footer.8b6abb05882bfabc370e.jpg",
+    "static/media/Rajdhani-Bold.ttf": "/agoryumreact/static/media/Rajdhani-Bold.0d5cc77aaa325cbb9ce5.ttf",
+    "static/media/Rajdhani-SemiBold.ttf": "/agoryumreact/static/media/Rajdhani-SemiBold.aac5f5aeba80e64c5532.ttf",
+    "static/media/Rajdhani-Medium.ttf": "/agoryumreact/static/media/Rajdhani-Medium.ad93ad79f70bdbf8f668.ttf",
+    "static/media/Rajdhani-Regular.ttf": "/agoryumreact/static/media/Rajdhani-Regular.955ad2c739164f2b01b6.ttf",
+    "static/media/home-banner.jpg": "/agoryumreact/static/media/home-banner.426b016a831193fcd7e9.jpg",
+    "static/media/contact-banner.jpg": "/agoryumreact/static/media/contact-banner.ca13fee7354ba2598de9.jpg",
+    "static/media/services-1.jpg": "/agoryumreact/static/media/services-1.d93e6b957835d8c27e71.jpg",
+    "static/media/Poppins-Light.ttf": "/agoryumreact/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/agoryumreact/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/agoryumreact/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/case-3.jpg": "/agoryumreact/static/media/case-3.be28e802352db2e7a7b6.jpg",
+    "static/media/case-1.jpg": "/agoryumreact/static/media/case-1.c1ab4086c592c10aee8f.jpg",
+    "static/media/case-2.jpg": "/agoryumreact/static/media/case-2.dd06d90b8fd0fee4ff79.jpg",
+    "static/media/case-4.jpg": "/agoryumreact/static/media/case-4.d774c52fb6c7d74645d1.jpg",
+    "static/media/client-profile-1.png": "/agoryumreact/static/media/client-profile-1.4b83dc32159a49758ea9.png",
+    "static/media/slick.svg": "/agoryumreact/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/agoryumreact/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/agoryumreact/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/agoryumreact/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/agoryumreact/index.html",
+    "main.9c3de613.css.map": "/agoryumreact/static/css/main.9c3de613.css.map",
+    "main.d384df64.js.map": "/agoryumreact/static/js/main.d384df64.js.map",
+    "787.6cb22d9a.chunk.js.map": "/agoryumreact/static/js/787.6cb22d9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c3de613.css",
+    "static/js/main.d384df64.js"
+  ]
+}
